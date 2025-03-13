@@ -33,9 +33,9 @@ The Manufacturer Discount Program (MDP) is a newer program that will replace the
 - Drug manufacturers will continue providing discounts not just in the gap but also earlier in the coverage phase, reducing your costs throughout the year.
 
 # Key Takeaways:
-✅ CGDP (until 2024): Helps you pay less for brand-name drugs when you're in the Coverage Gap.
-✅ MDP (starting 2025): Expands manufacturer discounts beyond the Coverage Gap, helping with costs earlier.
-✅ Both programs help lower the cost of expensive medications for Medicare beneficiaries.
+- CGDP (until 2024): Helps you pay less for brand-name drugs when you're in the Coverage Gap.
+- MDP (starting 2025): Expands manufacturer discounts beyond the Coverage Gap, helping with costs earlier.
+- Both programs help lower the cost of expensive medications for Medicare beneficiaries.
 
 # Impact of CGDP and MDP on Insurance Providers (Medicare Advantage & Part D Plans)
 Both the Coverage Gap Discount Program (CGDP) and the upcoming Manufacturer Discount Program (MDP) directly affect insurance providers (Medicare Advantage and Part D sponsors) in several ways. Let's break it down.
