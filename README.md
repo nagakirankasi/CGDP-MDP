@@ -84,13 +84,13 @@ Both the Coverage Gap Discount Program (CGDP) and the upcoming Manufacturer Disc
 - Fewer plan options and potential market consolidation in Medicare Part D due to increased financial risk for insurers.
 
 ## Conclusion: How CGDP vs. MDP Affects Insurers
-Aspect	                            CGDP (Until 2024)	                  MDP (Starting 2025)
-Manufacturer Discount	              75% (only in Coverage Gap)	        Expanded to Initial Coverage & Gap
-Insurer Cost in Coverage Gap	      5%	                                5%
-Insurer Cost in Catastrophic Phase	15%	                                60% (higher burden)
-Medicare Reinsurance	              80%	                                20% (insurers cover more)
-Effect on Insurers	                Lower risk, predictable costs	      Higher costs, financial pressure
-Expected Outcome	                  Stable premiums, more plan choices	Possible premium hikes, plan changes
+- Aspect	                            CGDP (Until 2024)	                  MDP (Starting 2025)
+- Manufacturer Discount	              75% (only in Coverage Gap)	        Expanded to Initial Coverage & Gap
+- Insurer Cost in Coverage Gap	      5%	                                5%
+- Insurer Cost in Catastrophic Phase	15%	                                60% (higher burden)
+- Medicare Reinsurance	              80%	                                20% (insurers cover more)
+- Effect on Insurers	                Lower risk, predictable costs	      Higher costs, financial pressure
+- Expected Outcome	                  Stable premiums, more plan choices	Possible premium hikes, plan changes
 
 ## Final Thought:
 CGDP was financially favorable for insurers, while MDP shifts more costs onto them, likely leading to premium adjustments and plan restructuring in the coming years.
